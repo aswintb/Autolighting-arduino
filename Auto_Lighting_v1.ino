@@ -1,17 +1,9 @@
 int night_limit=800;
-
-
 int walk_relay_pin = 9;
-
-
-
 int pir_pin = 7; 
 int pirValue; 
-
 int ldr_pin=A0;
 int ldr_value;
-
-
 int buzzer_pin= 8;
 
 
